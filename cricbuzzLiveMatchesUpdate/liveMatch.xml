@@ -1,0 +1,139 @@
+	<mchdata NMchs="13">
+		<links fUrlBase="http://synd.cricbuzz.com/j2me/1.0/flags/team_" />
+	
+	
+		<match id="2" type="T20" srs="Indian Premier League, 2017" mchDesc="KXIP vs RCB" mnum="8th Match"  vcity="Indore" vcountry="India" grnd="Holkar Cricket Stadium" inngCnt="0" datapath="http://synd.cricbuzz.com/j2me/1.0/match/2017/IPL_2017/KXIP_RCB_APR10/" >
+	 <state mchState="preview" status="Starts on Apr 10 at 14:30 GMT" TW="" decisn="" addnStatus="" splStatus="">
+	</state>
+	<Tm id="65" Name="Punjab" sName="KXIP"  flag='0'/>
+	<Tm id="59" Name="Bangalore" sName="RCB"  flag='0'/>
+	
+	
+	<Tme Dt="Apr 10 2017" stTme="14:30" enddt ="Apr 10 2017" ></Tme>		
+
+	</match>
+	
+	
+	
+		<match id="9" type="TEST" srs="ICC Intercontinental Cup, 2015-17" mchDesc="UAE vs PNG" mnum="19th Match"  vcity="Abu Dhabi" vcountry="United Arab Emirates" grnd="Sheikh Zayed Stadium" inngCnt="4" datapath="http://synd.cricbuzz.com/j2me/1.0/match/2015/2015-17_ICC_INTER/UAE_PNG_APR07_APR10/" >
+	 <state mchState="complete" status="UAE won by 9 wkts" TW="PNG" decisn="Batting" addnStatus="" splStatus="">
+	</state>
+	<Tm id="7" Name="UAE" sName="UAE"  flag='0'/>
+	<Tm id="287" Name="PNG" sName="PNG"  flag='0'/>
+	
+	
+	<Tme Dt="Apr 07 2017" stTme="06:00" enddt ="Apr 10 2017" ></Tme>		
+
+	<mscr>
+		<inngsdetail noofovers="0" rrr="0" crr="7.2" cprtshp="14(8)"/>
+	<btTm id="7" sName="UAE">
+			<Inngs desc="2nd Inns" r="42"  Decl="0" FollowOn="0" ovrs="5.5" wkts="1"/>
+			<Inngs desc="1st Inns" r="441"  Decl="1" FollowOn="0" ovrs="150.3" wkts="8"/>
+	</btTm>
+	<blgTm id="287" sName="PNG">
+			<Inngs desc="2nd Inns" r="286"  Decl="0" FollowOn="0" ovrs="86.4" wkts="10"/>
+			<Inngs desc="1st Inns" r="194"  Decl="0" FollowOn="0" ovrs="85.3" wkts="10"/>
+	</blgTm>
+
+	</mscr>
+	</match>
+	
+	
+	
+		<match id="7" type="ODI" srs="Pakistan tour of West Indies, 2017" mchDesc="WI vs PAK" mnum="2nd ODI"  vcity="Guyana" vcountry="West Indies" grnd="Providence Stadium" inngCnt="2" datapath="http://synd.cricbuzz.com/j2me/1.0/match/2017/2017_WI_PAK/WI_PAK_APR09/" >
+	 <state mchState="complete" status="Pak won by 74 runs" TW="WI" decisn="Fielding" addnStatus="" splStatus="">
+	</state>
+	<Tm id="10" Name="WI" sName="WI"  flag='1'/>
+	<Tm id="3" Name="Pak" sName="PAK"  flag='1'/>
+	
+	
+	<Tme Dt="Apr 09 2017" stTme="13:30" enddt ="Apr 09 2017" ></Tme>		
+
+	<mscr>
+		<inngsdetail noofovers="50" rrr="0" crr="4.64" cprtshp=""/>
+	<btTm id="10" sName="WI">
+			<Inngs desc="Inns" r="208"  Decl="0" FollowOn="0" ovrs="44.5" wkts="10"/>
+	</btTm>
+	<blgTm id="3" sName="PAK">
+			<Inngs desc="Inns" r="282"  Decl="0" FollowOn="0" ovrs="50" wkts="5"/>
+	</blgTm>
+
+	</mscr>
+	</match>
+	
+	
+	
+		<match id="5" type="T20" srs="Indian Premier League, 2017" mchDesc="MI vs KKR" mnum="7th Match"  vcity="Mumbai" vcountry="India" grnd="Wankhede Stadium" inngCnt="2" datapath="http://synd.cricbuzz.com/j2me/1.0/match/2017/IPL_2017/MI_KKR_APR09/" >
+	 <state mchState="complete" status="Mumbai won by 4 wkts" TW="Mumbai" decisn="Fielding" addnStatus="" splStatus="">
+	</state>
+	<Tm id="62" Name="Mumbai" sName="MI"  flag='0'/>
+	<Tm id="63" Name="Kolkata" sName="KKR"  flag='0'/>
+	
+	
+	<Tme Dt="Apr 09 2017" stTme="14:30" enddt ="Apr 09 2017" ></Tme>		
+
+	<mscr>
+		<inngsdetail noofovers="50" rrr="0" crr="9.08" cprtshp="20(8)"/>
+	<btTm id="62" sName="MI">
+			<Inngs desc="Inns" r="180"  Decl="0" FollowOn="0" ovrs="19.5" wkts="6"/>
+	</btTm>
+	<blgTm id="63" sName="KKR">
+			<Inngs desc="Inns" r="178"  Decl="0" FollowOn="0" ovrs="20" wkts="7"/>
+	</blgTm>
+
+	</mscr>
+	</match>
+	
+	
+	
+		<match id="4" type="T20" srs="Indian Premier League, 2017" mchDesc="SRH vs GL" mnum="6th Match"  vcity="Hyderabad" vcountry="India" grnd="Rajiv Gandhi International Stadium" inngCnt="2" datapath="http://synd.cricbuzz.com/j2me/1.0/match/2017/IPL_2017/SRH_GL_APR09/" >
+	 <state mchState="complete" status="Hyderabad won by 9 wkts" TW="Hyderabad" decisn="Fielding" addnStatus="" splStatus="">
+	</state>
+	<Tm id="255" Name="Hyderabad" sName="SRH"  flag='0'/>
+	<Tm id="345" Name="Gujarat" sName="GL"  flag='0'/>
+	
+	
+	<Tme Dt="Apr 09 2017" stTme="10:30" enddt ="Apr 09 2017" ></Tme>		
+
+	<mscr>
+		<inngsdetail noofovers="50" rrr="0" crr="9.03" cprtshp="108(74)"/>
+	<btTm id="255" sName="SRH">
+			<Inngs desc="Inns" r="140"  Decl="0" FollowOn="0" ovrs="15.3" wkts="1"/>
+	</btTm>
+	<blgTm id="345" sName="GL">
+			<Inngs desc="Inns" r="135"  Decl="0" FollowOn="0" ovrs="20" wkts="7"/>
+	</blgTm>
+
+	</mscr>
+	</match>
+	
+	
+	
+	<match id='17872' type="ODI" srs="Pakistan tour of West Indies, 2017" mchDesc="WI vs PAK" mnum="2nd ODI"  inngCnt="2" datapath="http://synd.cricbuzz.com/j2me/1.0/match/2017/2017_WI_PAK/WI_PAK_APR09/" >
+	
+		<state mchState="Result" status="Pak won by 74 runs">	</state>
+			<manofthematch NoOfPlayers="1">
+				<mom Name="Babar Azam"/>
+			</manofthematch>
+		<Tm id="10" Name="WI" sName="WI"  flag='1'/>
+		<Tm id="3" Name="Pak" sName="PAK"  flag='1'/>
+		
+		<Tme Dt="Apr 09 2017" stTme="13:30" enddt ="Apr 09 2017"></Tme>
+
+	</match>
+	
+	
+	<match id='18127' type="T20" srs="Indian Premier League, 2017" mchDesc="MI vs KKR" mnum="7th Match"  inngCnt="2" datapath="http://synd.cricbuzz.com/j2me/1.0/match/2017/IPL_2017/MI_KKR_APR09/" >
+	
+		<state mchState="Result" status="Mumbai won by 4 wkts">	</state>
+			<manofthematch NoOfPlayers="1">
+				<mom Name="Nitish Rana"/>
+			</manofthematch>
+		<Tm id="62" Name="Mumbai" sName="MI"  flag='0'/>
+		<Tm id="63" Name="Kolkata" sName="KKR"  flag='0'/>
+		
+		<Tme Dt="Apr 09 2017" stTme="14:30" enddt ="Apr 09 2017"></Tme>
+
+	</match>
+	</mchdata>
+
